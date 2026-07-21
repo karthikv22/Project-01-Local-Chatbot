@@ -210,7 +210,7 @@ GitHub:
 https://github.com/karthikv22
 
 LinkedIn:
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/karthikvudumula
 
 ---
 
