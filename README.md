@@ -204,7 +204,7 @@ Project-01: Local AI Chatbot
 
 # 👨‍💻 Author
 
-**Mallikarjuna Reddy**
+**V karthik**
 
 GitHub:
 https://github.com/karthikv22
