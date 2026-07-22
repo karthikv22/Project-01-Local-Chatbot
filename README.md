@@ -131,7 +131,7 @@ You: Hello
 AI:
 Hello! How can I help you today?
 
-You: My name is Mallikarjuna.
+You: My name is V Karthik.
 
 AI:
 Nice to meet you!
@@ -140,7 +140,7 @@ You:
 What is my name?
 
 AI:
-Your name is Mallikarjuna.
+Your name is V karthik.
 ```
 
 ---
